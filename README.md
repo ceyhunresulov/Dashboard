@@ -5,7 +5,7 @@ Admin panel əsas 3 hissədən ibarətdir. İstifadəçilər(users), kurslar(cou
 
 
 ### Stats
--Cəmi istifadəçi sayı
+-Cəmi istifadəçi sayı<br>
 -Cəmi kurs sayı
 -Cəmi satın alma sayı 
 
