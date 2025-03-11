@@ -17,12 +17,12 @@ function StatBoxes() {
     },
     {
       Icon: <BiStats />,
-      title: "Courses",
+      title: "Total Courses",
       value: totlaCourses,
     },
     {
       Icon: <AiFillDollarCircle />,
-      title: "Sales",
+      title: "Total Sales",
       value: `$${totalSales}`,
     },
   ];
