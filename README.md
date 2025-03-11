@@ -1,12 +1,22 @@
-# React + Vite
+# Dashboard
+## Məlumat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Admin panel əsas 3 hissədən ibarətdir. İstifadəçilər(users), kurslar(courses) və satın almalar(purchases). Bu məlumatlara əsasən Dahsboard səhifəsində Chart-lar hazırlanıb. Aşağdakı məlumatlar göstərilir:
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Stats
+-Cəmi istifadəçi sayı<br>
+-Cəmi kurs sayı<br>
+-Cəmi satın alma sayı<br>
 
-## Expanding the ESLint configuration
+### Line Chart
+-Aylıq olaraq tətbiqi istifdəyə başlayan tələbələrin sayı (Users)<br>
+-Aylıq olaraq satın almaların sayı. (Purchases)<br>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Bar Chart
+-Yaş aralığına görə istifadəçilərin sayı. Məslən, 20-25 yaş aralığında 10 istifadəçi var, 25-30 yaş aralığında 14 istifadəçi var və s.<br>
+
+### Pie Chart
+-Hansı kursu neçə nəfərin aldığını göstəri.
+
+
