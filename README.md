@@ -19,4 +19,7 @@ Admin panel əsas 3 hissədən ibarətdir. İstifadəçilər(users), kurslar(cou
 ### Pie Chart
 -Hansı kursu neçə nəfərin aldığını göstəri.
 
+### Qeyd
+-Dizayn üçün tətbiq böyük olmadığı üçün css fayllarından istifadə etmədim. Lakin css srtukturun qurdum. Css faylların istifadə etsəydim strukturun bu formada qurardım.
+
 
