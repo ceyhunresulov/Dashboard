@@ -1,0 +1,430 @@
+{
+  "users": [
+    {
+      "_id": "71bdd4cc-a7de-4246-b845-dd082a9f39f1",
+      "fullName": "Jeyhun Rasulov",
+      "email": "hamiltonhaley@gmail.com",
+      "password": "dA7UMkd(!U",
+      "age": 24,
+      "role": "user",
+      "joinDate": "2024-1-10"
+    },
+    {
+      "_id": "dc195510-9ee1-4292-b6f8-1a638a4e306f",
+      "fullName": "Jeremiah Smith",
+      "email": "tbarrett@gmail.com",
+      "password": "KAV0_4zgG+",
+      "age": 22,
+      "role": "user",
+      "joinDate": "2024-2-16"
+    },
+    {
+      "_id": "10d1fb13-c128-497b-b688-7141129ac313",
+      "fullName": "Nathaniel Cole",
+      "email": "mashley@gmail.com",
+      "password": "qrm1Wc35_@",
+      "age": 39,
+      "role": "user",
+      "joinDate": "2024-3-20"
+    },
+    {
+      "_id": "a217b112-0eb6-44f9-b241-c4d2c4749bab",
+      "fullName": "Susan Jones",
+      "email": "jeffhaney@gmail.com",
+      "password": "IR^0YACsM$",
+      "age": 34,
+      "role": "user",
+      "joinDate": "2024-4-17"
+    },
+    {
+      "_id": "c903d473-7b45-4a32-8863-83456a728ccd",
+      "fullName": "Ian Larsen",
+      "email": "mstephens@gmail.com",
+      "password": ")TOYbD0rn4",
+      "age": 26,
+      "role": "user",
+      "joinDate": "2024-1-10"
+    },
+    {
+      "_id": "fcd778e5-2859-4017-96f4-13d6507464e4",
+      "fullName": "Linda Diaz",
+      "email": "elizabethhodges@gmail.com",
+      "password": "&XBo0d+Nj7",
+      "age": 37,
+      "role": "user",
+      "joinDate": "2024-1-10"
+    },
+    {
+      "_id": "9a289dbf-2172-463d-a809-b4c02fe5f33c",
+      "fullName": "Mr. Aaron Baxter",
+      "email": "feliciapalmer@gmail.com",
+      "password": "lJT3THoJ^1",
+      "age": 43,
+      "role": "user",
+      "joinDate": "2024-4-17"
+    },
+    {
+      "_id": "e48fbffa-2393-4971-b3b4-3c1d8d7b2a04",
+      "fullName": "James Williams",
+      "email": "martin03@gmail.com",
+      "password": "C%1jSWaM)U",
+      "age": 46,
+      "role": "user",
+      "joinDate": "2024-8-27"
+    },
+    {
+      "_id": "a99fd026-0e4b-4bdb-99a8-0d8754178276",
+      "fullName": "Mark Vega",
+      "email": "reidcolleen@gmail.com",
+      "password": "l(Inyet(!1",
+      "age": 51,
+      "role": "user",
+      "joinDate": "2025-1-17"
+    },
+    {
+      "_id": "fb766d93-d02a-4544-9db0-9e8bf31601d3",
+      "fullName": "Erica Jenkins",
+      "email": "bwalters@gmail.com",
+      "password": ")1miB+^e@f",
+      "age": 23,
+      "role": "user",
+      "joinDate": "2025-1-17"
+    },
+    {
+      "_id": "edb250c0-25f7-4c17-a6bf-bbff34d208f5",
+      "fullName": "Kevin Smith",
+      "email": "thomasbailey@gmail.com",
+      "password": "qM62ITzjA!",
+      "age": 18,
+      "role": "user",
+      "joinDate": "2025-2-17"
+    },
+    {
+      "_id": "500ab9b9-dfe0-4432-8ebe-155b68f54d20",
+      "fullName": "Brooke Campos",
+      "email": "jamesshaw@gmail.com",
+      "password": "k0I6yeFr$^",
+      "age": 19,
+      "role": "user",
+      "joinDate": "2025-1-17"
+    },
+    {
+      "_id": "777de767-e896-4379-ad17-747a4a6e9e2f",
+      "fullName": "Pamela Gomez",
+      "email": "moorelaura@gmail.com",
+      "password": "Fti0)Svm^5",
+      "age": 22,
+      "role": "user",
+      "joinDate": "2024-7-7"
+    },
+    {
+      "_id": "a1cad36b-fab2-4d41-be05-5876aad24d41",
+      "fullName": "Howard Rodriguez",
+      "email": "kristinamcdonald@gmail.com",
+      "password": "+OT^7FTmTA",
+      "age": 59,
+      "role": "user",
+      "joinDate": "2025-3-2"
+    },
+    {
+      "_id": "23bb1c80-2f5a-4765-ac97-7e0688fd292b",
+      "fullName": "James Decker",
+      "email": "alexanderbrooks@gmail.net",
+      "password": "E_0vPi7ic@",
+      "age": 21,
+      "role": "user",
+      "joinDate": "2025-3-8"
+    },
+    {
+      "_id": "22694659-52fe-4f6f-abbb-e396aba8e053",
+      "fullName": "Juan Wilkinson",
+      "email": "walkermark@gmail.biz",
+      "password": "T2(Wnrk!$k",
+      "age": 50,
+      "role": "user",
+      "joinDate": "2025-3-6"
+    },
+    {
+      "_id": "de1e1341-9060-48e9-be99-1dc1249f9886",
+      "fullName": "Michael Stone",
+      "email": "jeremyevans@gmail.com",
+      "password": "uMH_Q&9Q$1",
+      "age": 57,
+      "role": "user",
+      "joinDate": "2024-11-17"
+    },
+    {
+      "_id": "a01637e3-f7c4-4029-bb15-a79f6da162fe",
+      "fullName": "Rodney Hurley",
+      "email": "adamjohnson@gmail.com",
+      "password": "%$7%maIbWa",
+      "age": 59,
+      "role": "user",
+      "joinDate": "2024-6-17"
+    },
+    {
+      "_id": "96da7a25-a09a-4a23-ad14-99664bbf6307",
+      "fullName": "Joshua Hatfield",
+      "email": "athomas@gmail.com",
+      "password": "_6NLdLpAl0",
+      "age": 20,
+      "role": "user",
+      "joinDate": "2024-10-17"
+    }
+  ],
+  "courses": [
+    {
+      "_id": "ed424086-b53a-4ea7-8af1-1e533411b72c",
+      "name": "Frontend",
+      "desc": "Comprehensive Frontend course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/c5151573-e721-4f41-b95d-e6aacb62d20b.mp4",
+      "coverPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDo2-v2t7qNyfv6yHC2FM42YJj_kgC6H0spQ&s",
+      "level": "intermediate",
+      "price": 90
+    },
+    {
+      "_id": "4e1c964d-c536-4621-ba56-e27615d105af",
+      "name": "Java",
+      "desc": "Comprehensive Java course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/1254b61c-495c-4192-a773-0a492ea8e792.mp4",
+      "coverPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldAAgq_dpORAIytAAqmiyQDap05VWyy56mg&s",
+      "level": "intermediate",
+      "price": 120
+    },
+    {
+      "_id": "253c5f4e-368c-4f91-abbf-b87e1e4f9dbc",
+      "name": "UX/UI",
+      "desc": "Comprehensive UX/UI course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/dc70c5ea-b5ec-418e-939e-e4773fd2d8c0.mp4",
+      "coverPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbQDxmV2E6ZfAlhNMrPE1o-sPSIFiAjmngg&s",
+      "level": "advanced",
+      "price": 70
+    },
+    {
+      "_id": "f258ea2e-4324-410c-86ae-7af60d696ef3",
+      "name": "English",
+      "desc": "Comprehensive English course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/30a4e86e-471b-4acb-a960-ca2273002994.mp4",
+      "coverPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkIYSPjUj68SdKOYEEVbz6oSiwFey0H9LOEQ&s",
+      "level": "intermediate",
+      "price": 40
+    },
+    {
+      "_id": "b8a47465-4dc2-4d2f-bfaa-6fca670afb90",
+      "name": "Full-Stack",
+      "desc": "Comprehensive Full-Stack course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/34235dbb-b74a-40eb-a645-9a238eacc4c4.mp4",
+      "coverPicture": "https://kvadrat.az/uploads/articles/6748c91e1360c.png",
+      "level": "intermediate",
+      "price": 150
+    },
+    {
+      "_id": "9e98edb0-d396-4fb9-a4db-7f849269fb73",
+      "name": "Graphic Design",
+      "desc": "Comprehensive Graphic Design course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/acb18b37-4328-4ecb-bbe8-fc12c9c3d40d.mp4",
+      "coverPicture": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/04/106032482.jpeg?auto=format&q=60&fit=max&w=930",
+      "level": "beginner",
+      "price": 70
+    },
+    {
+      "_id": "9d7daa28-74a3-4d31-9d8a-3ecabd1fd470",
+      "name": "Node.js",
+      "desc": "Comprehensive Node.js course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/0229d3af-1824-4228-a0cd-56573860336b.mp4",
+      "coverPicture": "https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png",
+      "level": "intermediate",
+      "price": 80
+    },
+    {
+      "_id": "d6823874-4b5d-4675-880d-3d3d2f405b0b",
+      "name": "Backend with C#",
+      "desc": "Comprehensive Backend with C# course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/8eb65029-bd8b-4b79-9c22-327bdc86e7fe.mp4",
+      "coverPicture": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4086801/cover_image/regular_1708x683/cover-0219-The10MistakesC-Waldek_img-9dbcb8505c8e2e676ed814453e85d4e5.png",
+      "level": "beginner",
+      "price": 80
+    },
+    {
+      "_id": "41b13fdd-3c8d-4fa8-aa90-7aae7ec5f2e3",
+      "name": "Data Structure",
+      "desc": "Comprehensive Data Structure course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/6934a745-f222-4d9c-befe-46591850f37e.mp4",
+      "coverPicture": "https://miro.medium.com/v2/resize:fit:1400/1*J38nYZU7gzu-4lQmtjlSUw.jpeg",
+      "level": "advanced",
+      "price": 200
+    },
+    {
+      "_id": "970ce012-5e12-4afe-ac6a-790986e62085",
+      "name": "Cyber Security",
+      "desc": "Comprehensive Cyber Security course covering all essential topics.",
+      "videoUrl": "https://example.com/videos/03d9f957-4273-43f7-8eb3-29fb56c582c5.mp4",
+      "coverPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8DyGxO_QuNeCiGP_FBU8Y1UhbuABEG6O-Kw&s",
+      "level": "beginner",
+      "price": 90
+    }
+  ],
+  "purchases": [
+    {
+      "_id": "910b81cc-8af3-436e-b7cf-6abf3015b3ee",
+      "userId": "dc195510-9ee1-4292-b6f8-1a638a4e306f",
+      "courseId": "ed424086-b53a-4ea7-8af1-1e533411b72c",
+      "payment": 90,
+      "salesDate": "2024-9-17"
+    },
+    {
+      "_id": "a20c842a-fced-42af-89ef-1f039e5b254d",
+      "userId": "dc195510-9ee1-4292-b6f8-1a638a4e306f",
+      "courseId": "970ce012-5e12-4afe-ac6a-790986e62085",
+      "payment": 90,
+      "salesDate": "2025-2-17"
+    },
+    {
+      "_id": "d4ca5707-9bee-47dd-a992-660e4d4e04be",
+      "userId": "dc195510-9ee1-4292-b6f8-1a638a4e306f",
+      "courseId": "41b13fdd-3c8d-4fa8-aa90-7aae7ec5f2e3",
+      "payment": 200,
+      "salesDate": "2024-2-17"
+    },
+    {
+      "_id": "dd3390d1-1779-420a-86f6-fb9d803295a1",
+      "userId": "10d1fb13-c128-497b-b688-7141129ac313",
+      "courseId": "970ce012-5e12-4afe-ac6a-790986e62085",
+      "payment": 90,
+      "salesDate": "2024-3-17"
+    },
+    {
+      "_id": "aa91df5e-3f86-4dc2-b1aa-c83b5e6ce46c",
+      "userId": "10d1fb13-c128-497b-b688-7141129ac313",
+      "courseId": "d6823874-4b5d-4675-880d-3d3d2f405b0b",
+      "payment": 80,
+      "salesDate": "2024-4-17"
+    },
+    {
+      "_id": "32b3a1be-3205-4ab7-9674-c4928be59ec8",
+      "userId": "a217b112-0eb6-44f9-b241-c4d2c4749bab",
+      "courseId": "4e1c964d-c536-4621-ba56-e27615d105af",
+      "payment": 120,
+      "salesDate": "2024-5-17"
+    },
+    {
+      "_id": "9a80c39c-bf41-49a4-8159-681592e2739c",
+      "userId": "a217b112-0eb6-44f9-b241-c4d2c4749bab",
+      "courseId": "9d7daa28-74a3-4d31-9d8a-3ecabd1fd470",
+      "payment": 80,
+      "salesDate": "2024-6-17"
+    },
+    {
+      "_id": "13a39ae2-7452-4a4c-9d44-014cd3cb3eee",
+      "userId": "c903d473-7b45-4a32-8863-83456a728ccd",
+      "courseId": "9e98edb0-d396-4fb9-a4db-7f849269fb73",
+      "payment": 70,
+      "salesDate": "2024-7-17"
+    },
+    {
+      "_id": "c4fc9feb-5eba-4b24-ad07-d0caf63d66be",
+      "userId": "fcd778e5-2859-4017-96f4-13d6507464e4",
+      "courseId": "b8a47465-4dc2-4d2f-bfaa-6fca670afb90",
+      "payment": 150,
+      "salesDate": "2024-8-17"
+    },
+    {
+      "_id": "8af16c89-d347-4e2b-b0db-488b0063ade8",
+      "userId": "9a289dbf-2172-463d-a809-b4c02fe5f33c",
+      "courseId": "f258ea2e-4324-410c-86ae-7af60d696ef3",
+      "payment": 40,
+      "salesDate": "2024-9-17"
+    },
+    {
+      "_id": "8af16c89-d347-4e2b-b0db-488b0063adc",
+      "userId": "9a289dbf-2172-463d-a809-b4c02fe5f33c",
+      "courseId": "41b13fdd-3c8d-4fa8-aa90-7aae7ec5f2e3",
+      "payment": 200,
+      "salesDate": "2024-10-17"
+    },
+    {
+      "_id": "8af16c89-d356-4e2b-b0db-488b0063adc",
+      "userId": "e48fbffa-2393-4971-b3b4-3c1d8d7b2a04",
+      "courseId": "970ce012-5e12-4afe-ac6a-790986e62085",
+      "payment": 90,
+      "salesDate": "2024-11-17"
+    },
+    {
+      "_id": "8af16c89-d347-4e2b-b0db-488b0063bndc",
+      "userId": "a99fd026-0e4b-4bdb-99a8-0d8754178276",
+      "courseId": "d6823874-4b5d-4675-880d-3d3d2f405b0b",
+      "payment": 80,
+      "salesDate": "2024-12-17"
+    },
+    {
+      "_id": "6af16c83-d347-4e2b-b0db-488b0063adc",
+      "userId": "fb766d93-d02a-4544-9db0-9e8bf31601d3",
+      "courseId": "9e98edb0-d396-4fb9-a4db-7f849269fb73",
+      "payment": 70,
+      "salesDate": "2025-3-10"
+    },
+    {
+      "_id": "8af16c89-d347-4e2b-b0db-499d0063adc",
+      "userId": "edb250c0-25f7-4c17-a6bf-bbff34d208f5",
+      "courseId": "b8a47465-4dc2-4d2f-bfaa-6fca670afb90",
+      "payment": 150,
+      "salesDate": "2025-2-17"
+    },
+    {
+      "_id": "8af16a50-d347-4e2b-b0db-488b0063adc",
+      "userId": "500ab9b9-dfe0-4432-8ebe-155b68f54d20",
+      "courseId": "4e1c964d-c536-4621-ba56-e27615d105af",
+      "payment": 120,
+      "salesDate": "2025-3-17"
+    },
+    {
+      "_id": "8af16a5t-d347-4e2b-b0db-488b0063adc",
+      "userId": "a1cad36b-fab2-4d41-be05-5876aad24d41",
+      "courseId": "41b13fdd-3c8d-4fa8-aa90-7aae7ec5f2e3",
+      "payment": 200,
+      "salesDate": "2024-1-17"
+    },
+    {
+      "_id": "8ad16a55-d347-4e2b-b0db-488b0063adc",
+      "userId": "23bb1c80-2f5a-4765-ac97-7e0688fd292b",
+      "courseId": "d6823874-4b5d-4675-880d-3d3d2f405b0b",
+      "payment": 80,
+      "salesDate": "2024-2-17"
+    },
+    {
+      "_id": "8af16a50-d347-4e2b-b0db-498j0073adc",
+      "userId": "22694659-52fe-4f6f-abbb-e396aba8e053",
+      "courseId": "970ce012-5e12-4afe-ac6a-790986e62085",
+      "payment": 90,
+      "salesDate": "2025-1-17"
+    },
+    {
+      "_id": "8af16a50-d347-4e2b-bcbd-488b0063adc",
+      "userId": "de1e1341-9060-48e9-be99-1dc1249f9886",
+      "courseId": "d6823874-4b5d-4675-880d-3d3d2f405b0b",
+      "payment": 80,
+      "salesDate": "2025-3-17"
+    },
+    {
+      "_id": "8af36a50-d447-4e6b-c0db-488b0063adc",
+      "userId": "253c5f4e-368c-4f91-abbf-b87e1e4f9dbc",
+      "courseId": "f258ea2e-4324-410c-86ae-7af60d696ef3",
+      "payment": 40,
+      "salesDate": "2025-1-17"
+    },
+    {
+      "_id": "8af16a50-c98a-4e2b-b0db-488b0063adc",
+      "userId": "a01637e3-f7c4-4029-bb15-a79f6da162fe",
+      "courseId": "ed424086-b53a-4ea7-8af1-1e533411b72c",
+      "payment": 90,
+      "salesDate": "2024-3-17"
+    },
+    {
+      "_id": "8af76a99-d347-4e2b-b0db-488b0063adc",
+      "userId": "96da7a25-a09a-4a23-ad14-99664bbf6307",
+      "courseId": "b8a47465-4dc2-4d2f-bfaa-6fca670afb90",
+      "payment": 150,
+      "salesDate": "2025-3-17"
+    }
+  ]
+}

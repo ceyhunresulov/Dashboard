@@ -1,0 +1,22 @@
+.calendar {
+  background-color: white;
+  color: black;
+  width: 100px;
+  height: 150px;
+  overflow-y: scroll;
+  cursor: default;
+}
+.calendar .react-datepicker__navigation {
+  display: none !important;
+}
+.react-datepicker__triangle {
+  color: white !important;
+}
+
+.input {
+  width: 60px !important;
+  padding: 5px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
