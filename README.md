@@ -20,6 +20,6 @@ Admin panel əsas 3 hissədən ibarətdir. İstifadəçilər(users), kurslar(cou
 -Hansı kursu neçə nəfərin aldığını göstəri.
 
 ### Qeyd
--Dizayn üçün tətbiq böyük olmadığı üçün css fayllarından istifadə etmədim. Lakin css srtukturun qurdum. Css faylların istifadə etsəydim strukturun bu formada qurardım.
+-Dizayn üçün tətbiq böyük olmadığına görə css fayllarından istifadə etmədim. Lakin css srtukturun qurdum. Css faylların istifadə etsəydim strukturun bu formada qurardım.
 
 
